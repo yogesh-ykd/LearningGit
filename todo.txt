@@ -1,4 +1,2 @@
-line number 1 of file
-line number 2 of file
-line number 3 of file
-
+line number 4 of file
+line number 5 of file
